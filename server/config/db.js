@@ -1,6 +1,8 @@
 import mongoose from "mongoose";
 import config from "../config.js";
 
+
+
 //for production
 const connectDb = async () => {
   try {
